@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio-Website/static/css/main.1f5a70d2.css",
+    "main.js": "/React-Portfolio-Website/static/js/main.dc5cb101.js",
+    "static/media/shamaabout.jpg": "/React-Portfolio-Website/static/media/shamaabout.5d7d8e3f35646a8a3237.jpg",
+    "static/media/shama2.png": "/React-Portfolio-Website/static/media/shama2.9615e5be312e0fed7105.png",
+    "static/media/portfolio6.jpg": "/React-Portfolio-Website/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/Nafisa_Sabnam_Shama_CV.pdf": "/React-Portfolio-Website/static/media/Nafisa_Sabnam_Shama_CV.ccaf03d299a20dcec32c.pdf",
+    "static/media/script.jpg": "/React-Portfolio-Website/static/media/script.e1aea5fdd0c0be612abf.jpg",
+    "static/media/ml.png": "/React-Portfolio-Website/static/media/ml.740072bde58513ebe940.png",
+    "static/media/webdev.png": "/React-Portfolio-Website/static/media/webdev.e8ca518d7f9641cddab9.png",
+    "index.html": "/React-Portfolio-Website/index.html",
+    "main.1f5a70d2.css.map": "/React-Portfolio-Website/static/css/main.1f5a70d2.css.map",
+    "main.dc5cb101.js.map": "/React-Portfolio-Website/static/js/main.dc5cb101.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f5a70d2.css",
+    "static/js/main.dc5cb101.js"
+  ]
+}
